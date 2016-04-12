@@ -1,0 +1,8 @@
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).exe.config
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).exe
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).pdb
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\bin\Debug\Domain.dll
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\bin\Debug\Domain.pdb
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).csprojResolveAssemblyReference.cache
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).exe
+D:\Projects\GoF_Patern\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).pdb
