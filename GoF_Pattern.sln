@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{4A19
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{06C01264-6E2E-467D-B1BC-0D773E784773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{500B8F68-8756-4D38-811B-563B964E8784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{ECDC4823-BC51-4DFE-A69A-6733272C9DDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{307D942C-437F-4E9F-80DC-DAEC1086E358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307D942C-437F-4E9F-80DC-DAEC1086E358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307D942C-437F-4E9F-80DC-DAEC1086E358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500B8F68-8756-4D38-811B-563B964E8784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500B8F68-8756-4D38-811B-563B964E8784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500B8F68-8756-4D38-811B-563B964E8784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500B8F68-8756-4D38-811B-563B964E8784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDC4823-BC51-4DFE-A69A-6733272C9DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC4823-BC51-4DFE-A69A-6733272C9DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC4823-BC51-4DFE-A69A-6733272C9DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC4823-BC51-4DFE-A69A-6733272C9DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{363130A1-237F-4E10-8793-C2B3B4342E1D} = {056397B8-D1F0-460B-90BD-C8D33D8D36C3}
 		{307D942C-437F-4E9F-80DC-DAEC1086E358} = {056397B8-D1F0-460B-90BD-C8D33D8D36C3}
+		{500B8F68-8756-4D38-811B-563B964E8784} = {4A193A26-B9AE-43C9-BB79-2C97DA2CA53C}
+		{ECDC4823-BC51-4DFE-A69A-6733272C9DDF} = {06C01264-6E2E-467D-B1BC-0D773E784773}
 	EndGlobalSection
 EndGlobal
