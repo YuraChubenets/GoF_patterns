@@ -1,0 +1,6 @@
+D:\GoF\Factory\bin\Debug\Factory.exe.config
+D:\GoF\Factory\bin\Debug\Factory.exe
+D:\GoF\Factory\bin\Debug\Factory.pdb
+D:\GoF\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\GoF\Factory\obj\Debug\Factory.exe
+D:\GoF\Factory\obj\Debug\Factory.pdb
