@@ -1,0 +1,5 @@
+D:\GoF\BuilderClient\bin\Debug\BuilderClient.exe.config
+D:\GoF\BuilderClient\bin\Debug\BuilderClient.exe
+D:\GoF\BuilderClient\bin\Debug\BuilderClient.pdb
+D:\GoF\BuilderClient\obj\Debug\BuilderClient.exe
+D:\GoF\BuilderClient\obj\Debug\BuilderClient.pdb
