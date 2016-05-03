@@ -1,0 +1,5 @@
+D:\GoF\Facade\bin\Debug\Facade.exe.config
+D:\GoF\Facade\bin\Debug\Facade.exe
+D:\GoF\Facade\bin\Debug\Facade.pdb
+D:\GoF\Facade\obj\Debug\Facade.exe
+D:\GoF\Facade\obj\Debug\Facade.pdb
