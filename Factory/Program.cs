@@ -14,10 +14,22 @@ namespace Factory
             Creator creator = new ConcreteCreatorA();
 
             Product prod = creator.FactoryMethod();
+
+
             Console.WriteLine(prod.GetType());
             Console.ReadKey();
 
         }
+    }
+
+    // Когда заранее неизвестно, объекты каких типов необходимо создавать.
+    // Когда система должна быть независимой от процесса создания новых объектов и расширяемой: в нее можно легко вводить новые классы, объекты которых система должна создавать.
+    // Когда создание новых объектов необходимо делегировать из базового класса классам наследника.
+
+
+    abstract class Creator
+    {
+        public abstract Product FactoryMethod();
     }
 
     abstract class Product
@@ -28,11 +40,6 @@ namespace Factory
 
     class ConcreteProductB : Product
     { }
-
-    abstract class Creator
-    {
-        public abstract Product FactoryMethod();
-    }
 
     class ConcreteCreatorA : Creator
     {

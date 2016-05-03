@@ -1,5 +1,8 @@
 D:\GoF\BuilderClient\bin\Debug\BuilderClient.exe.config
 D:\GoF\BuilderClient\bin\Debug\BuilderClient.exe
 D:\GoF\BuilderClient\bin\Debug\BuilderClient.pdb
+D:\GoF\BuilderClient\bin\Debug\System.Web.Mvc.dll
+D:\GoF\BuilderClient\bin\Debug\System.Web.Mvc.xml
+D:\GoF\BuilderClient\obj\Debug\BuilderClient.csprojResolveAssemblyReference.cache
 D:\GoF\BuilderClient\obj\Debug\BuilderClient.exe
 D:\GoF\BuilderClient\obj\Debug\BuilderClient.pdb

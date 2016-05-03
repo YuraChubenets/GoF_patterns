@@ -25,15 +25,12 @@ namespace ConsoleApplication1_IObserver_
 
             Console.ReadKey();
 
-            Storage.Instance.AddProduct();
-
-          
+            Storage.Instance.AddProduct();          
 
             Console.ReadKey();
             Console.WriteLine("--end--");
             Console.ReadKey();
-
-           
         }
     }
+    
 }
