@@ -1,0 +1,5 @@
+D:\GoF\Command\bin\Debug\Command.exe.config
+D:\GoF\Command\bin\Debug\Command.exe
+D:\GoF\Command\bin\Debug\Command.pdb
+D:\GoF\Command\obj\Debug\Command.exe
+D:\GoF\Command\obj\Debug\Command.pdb

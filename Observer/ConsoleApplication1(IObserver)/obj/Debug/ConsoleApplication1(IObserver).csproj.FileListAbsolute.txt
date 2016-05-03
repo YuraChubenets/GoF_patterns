@@ -14,11 +14,3 @@ D:\GoF\IObserver\ConsoleApplication1(IObserver)\bin\Debug\Domain.pdb
 D:\GoF\IObserver\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).csprojResolveAssemblyReference.cache
 D:\GoF\IObserver\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).exe
 D:\GoF\IObserver\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).pdb
-D:\GoF\Observer\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).exe.config
-D:\GoF\Observer\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).exe
-D:\GoF\Observer\ConsoleApplication1(IObserver)\bin\Debug\ConsoleApplication1(IObserver).pdb
-D:\GoF\Observer\ConsoleApplication1(IObserver)\bin\Debug\Domain.dll
-D:\GoF\Observer\ConsoleApplication1(IObserver)\bin\Debug\Domain.pdb
-D:\GoF\Observer\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).csprojResolveAssemblyReference.cache
-D:\GoF\Observer\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).exe
-D:\GoF\Observer\ConsoleApplication1(IObserver)\obj\Debug\ConsoleApplication1(IObserver).pdb
