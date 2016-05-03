@@ -1,0 +1,6 @@
+D:\GoF\Iterator\bin\Debug\Iterator.exe.config
+D:\GoF\Iterator\bin\Debug\Iterator.exe
+D:\GoF\Iterator\bin\Debug\Iterator.pdb
+D:\GoF\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\GoF\Iterator\obj\Debug\Iterator.exe
+D:\GoF\Iterator\obj\Debug\Iterator.pdb
