@@ -1,0 +1,6 @@
+D:\GoF\Template Method\bin\Debug\Template Method.exe.config
+D:\GoF\Template Method\bin\Debug\Template Method.exe
+D:\GoF\Template Method\bin\Debug\Template Method.pdb
+D:\GoF\Template Method\obj\Debug\Template Method.csprojResolveAssemblyReference.cache
+D:\GoF\Template Method\obj\Debug\Template Method.exe
+D:\GoF\Template Method\obj\Debug\Template Method.pdb

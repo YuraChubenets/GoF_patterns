@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{8CE6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{916E7967-A87D-44F4-9423-C502A9536210}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template Method", "Template Method", "{03694774-09EB-4525-AB07-5545C94F4DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method", "Template Method\Template Method.csproj", "{0E1780F3-7155-4055-9EF0-8EB6FE469E3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,10 @@ Global
 		{916E7967-A87D-44F4-9423-C502A9536210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916E7967-A87D-44F4-9423-C502A9536210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916E7967-A87D-44F4-9423-C502A9536210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1780F3-7155-4055-9EF0-8EB6FE469E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1780F3-7155-4055-9EF0-8EB6FE469E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1780F3-7155-4055-9EF0-8EB6FE469E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1780F3-7155-4055-9EF0-8EB6FE469E3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,5 +92,6 @@ Global
 		{1F4C8AD4-A72C-4C69-9357-0588BE7BF47E} = {DEBA16F8-A2D7-4A13-B52D-28065A3BA367}
 		{FD763AAD-23FF-41DC-B905-3C8DB3A3A460} = {FEE79C8B-0307-4C28-BF85-23E1EE90F7D3}
 		{916E7967-A87D-44F4-9423-C502A9536210} = {8CE68A9B-2A05-4564-98CE-0EEA8327AF34}
+		{0E1780F3-7155-4055-9EF0-8EB6FE469E3D} = {03694774-09EB-4525-AB07-5545C94F4DB8}
 	EndGlobalSection
 EndGlobal
